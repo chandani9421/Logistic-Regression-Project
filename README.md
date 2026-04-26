@@ -1,6 +1,6 @@
 # 📊 Logistic Regression Project
 
-## 📌 Project Overview
+## 📌 Project Overview...
 
 This project demonstrates the implementation of a **Logistic Regression model** to solve a classification problem by predicting categorical outcomes based on input features.
 
